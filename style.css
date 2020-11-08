@@ -61,4 +61,5 @@ body, h1, h2, h3, h4, p, a {
   
   .content { 
     font-size: 0;
+    margin-bottom: 0px;
   }
